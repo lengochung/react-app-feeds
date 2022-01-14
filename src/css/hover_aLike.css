@@ -1,0 +1,14 @@
+.uLike{
+    position: absolute;
+    top: 15px;
+    left: 60px;
+    display: none;
+    font-size: 11px;
+    padding: 5px;
+    background: #FEF889;
+    width: 150px;
+    z-index: 10000;
+}
+.nLike:hover + .uLike{
+    display: block;
+}

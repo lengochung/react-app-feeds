@@ -1,0 +1,22 @@
+.hide {
+    position: absolute;
+    top: 30px;
+    left: 90px;
+    display: none;
+    font-size: 12px;
+    padding: 5px;
+    /* background: #FEF889; */
+    width: 100%;
+    z-index: 10000;
+}
+
+.hidden {
+    display: none;
+}
+.show {
+    display: block;
+}
+    
+.myDIV:hover + .hide {
+    display: block;
+}

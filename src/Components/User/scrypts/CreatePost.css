@@ -1,0 +1,11 @@
+
+#post_status-by-bacsiwindows{margin:0 0 10px;background:#fff;padding:10px;box-sizing:border-box}
+#post_status-by-bacsiwindows i{margin:0 5px 0 0}
+#post_status-by-bacsiwindows .content{position:relative;height:70px}
+#post_status-by-bacsiwindows .content input{padding:0;margin:0;position:absolute;top:50%;transform:translate(0,-50%);left:50px;color:#666;background:0;border:0;outline:0;font-family:Roboto,sans-serif;font-size:15px;width:89%;}
+#post_status-by-bacsiwindows .content input::-webkit-input-placeholder{color:#888}
+#post_status-by-bacsiwindows .content input:focus::-webkit-input-placeholder{color:#666}
+#post_status-by-bacsiwindows a.btn_status{margin:10px 0px 0 0;display:inline-block;background:#f2f2f2;padding:10px 15px;border-radius:100px;font-size:14px;font-weight:500;}
+#post_status-by-bacsiwindows a.btn_status:hover{background:#ddd}
+#post_status-by-bacsiwindows .content img{width:40px;border-radius:50%;position:absolute;top:50%;left:0;transform:translate(0,-50%)}
+        
